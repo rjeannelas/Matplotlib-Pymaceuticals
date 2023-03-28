@@ -1,4 +1,4 @@
-# Matplotlib
+# Real-World: Pymaceuticals, Inc. with Matplotlib
 
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study.  
 
