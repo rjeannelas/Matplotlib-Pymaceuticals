@@ -7,3 +7,16 @@ As a senior data analyst at the company, you've been given access to the complet
   Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study.
+- Prepare the data.
+
+- Generate summary statistics.
+
+- Create bar charts and pie charts.
+
+- Calculate quartiles, find outliers, and create a box plot.
+
+- Create a line plot and a scatter plot.
+
+- Calculate correlation and regression.
+
+- Submit your final analysis.
